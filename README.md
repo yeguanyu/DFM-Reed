@@ -51,8 +51,3 @@ QQ 交流群：`1065234120`
 
 主工具输出位于 `app/build/outputs/apk/debug/`，测试场输出位于
 `simulator/build/outputs/apk/debug/`。
-
-## 官网文件
-
-`index.html` 是无外部资源依赖的单文件首页，截图已以内嵌 Base64 保存。
-`download.php` 会下载同目录的 `app.apk`；部署时将安装包另行上传到该文件名即可。
