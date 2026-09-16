@@ -1,0 +1,30 @@
+# Gradle / Android build output
+.gradle/
+**/build/
+local.properties
+
+# IDE and operating-system files
+.idea/
+*.iml
+*.lnk
+.DS_Store
+Thumbs.db
+
+# Signing material and local secrets
+*.jks
+*.keystore
+keystore.properties
+*.env
+
+# Built packages are distributed separately from source
+*.apk
+*.aab
+
+# Local project notes and captures
+CONTEXT.md
+*.log
+captures/
+
+# Website deployment is maintained outside the public source repository
+index.html
+download.php

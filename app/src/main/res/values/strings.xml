@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">风簧</string>
+    <string name="accessibility_description">在三角洲行动口风琴界面按曲谱模拟音键及高低、升音修饰键。服务不会读取屏幕内容。</string>
+</resources>
